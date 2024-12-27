@@ -1,5 +1,10 @@
 # Doodles E-commerce Sales Dashboard
 
+Here’s a preview of the interactive dashboard:
+
+![Sales Dashboard](https://github.com/Harsita11/Ecommerce-Sales-Dashboard/blob/main/Dashboard.png)
+
+
 ## Objective
 The owner **Doodle** seeks a solution to track and analyze their online sales across India. This project delivers an **interactive dashboard** to provide actionable insights, streamline data analysis, and support decision-making.
 
